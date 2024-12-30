@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "*.hs": "haskell",
+        "mesinkarakterv2.h": "c"
+    }
+}

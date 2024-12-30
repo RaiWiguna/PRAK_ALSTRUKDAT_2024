@@ -1,0 +1,9 @@
+{
+    "files.associations": {
+        "*.hs": "haskell",
+        "array.h": "c",
+        "mesinkarakter.h": "c",
+        "stdio.h": "c",
+        "mesinkata.h": "c"
+    }
+}
